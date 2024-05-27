@@ -68,5 +68,5 @@ npm start
 - React ChartJS 2: Library for creating interactive and visually appealing charts.
 
 ## Build with 💜 by
-- GitHub: [ Vikas Parmar ](https://github.com/vikas-parmar)
-- LinkedIn: [ Vikas Parmar ](https://www.linkedin.com/in/vikas-parmar/)
+- GitHub: [ Satendra Kummar ](https://github.com/Stndr1506)
+
