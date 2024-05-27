@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contact-management-typescript-application/static/css/main.87216426.css",
+    "main.js": "/contact-management-typescript-application/static/js/main.51ddd3c2.js",
+    "index.html": "/contact-management-typescript-application/index.html",
+    "main.87216426.css.map": "/contact-management-typescript-application/static/css/main.87216426.css.map",
+    "main.51ddd3c2.js.map": "/contact-management-typescript-application/static/js/main.51ddd3c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87216426.css",
+    "static/js/main.51ddd3c2.js"
+  ]
+}
